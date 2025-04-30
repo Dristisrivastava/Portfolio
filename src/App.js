@@ -7,7 +7,6 @@ import Hero from './components/Hero';
 import Portfolio from './components/Portfolio';
 import Footer from './components/Footer';
 import Contact from './components/Contact';
-import Splash from './components/Splash';
 
 function App() {
   return (
